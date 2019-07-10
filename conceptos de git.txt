@@ -1,0 +1,15 @@
+git sistema de gestion de controlador de versiones 
+
+git  /  github
+	git lab
+	bitbucket
+
+svn, git, tfs, mercurial.
+
+git clone 	saca del servidor una copia del programa o lineas de codigo que esten subidas
+git add 	devuelve al servidor todo el cambio que hayamos realizadoal index 
+git commit 	cuando estamos seguros de subir al servidor y confirmamos 
+git push 	para subir definitivamente al servidor 
+git pull 	descargar o bajar cambios de linesa de codigo de otra persona 
+
+github		plataforma en la nube que nos permite gestonar proyectos por medio de git, administrador de repositorios, te permite crear repositrios ramas y demas
